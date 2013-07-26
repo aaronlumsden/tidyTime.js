@@ -1,3 +1,8 @@
+tidyTime.js
+===========
+
+A jQuery plugin, that provides a more friendly way of displaying time updates to users!
+
 tidyTime.js takes any regular time and changes it into more human friendly dialogue such as "It's just gone noon. It's quarter past 8 in the evening, it's nearly half past 4 in the afternoon, it's just gone 25 to 6" and more. By adding additional text before and after the time you are able to create powerful friendly interaction with users.
 
 tidyTime.js works best with dynamic websites and apps and can be used as a stand alone clock. Here are some examples.
