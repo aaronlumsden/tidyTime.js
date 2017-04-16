@@ -55,7 +55,7 @@ tidyTime.js works best with dynamic websites and apps and can be used as a stand
 							</tbody>
 						</table>
                         
-##..:: Getting Started
+## ..:: Getting Started
 
 ### Include the relevant files
 
@@ -89,7 +89,7 @@ $('.tidyTime').tidyTime({
 		callback:tidyTimeFunction
 	});</pre>
     
-###Options
+### Options
 
 <table>
     						<thead>
@@ -127,7 +127,7 @@ $('.tidyTime').tidyTime({
 								</tr>
 							</tbody>
 						</table>
-###..:: Using tidyTime.js as a Clock
+### ..:: Using tidyTime.js as a Clock
 tidyTime can be used as a clock. Simply instantiate it when the page is first loaded and then create a setInterval to update. The current time will automatically be calculated within the plugin.
 
 <pre >
